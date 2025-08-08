@@ -14,8 +14,6 @@ A travel website where users can explore destinations, add blog posts, and share
 - EJS
 - HTML5, CSS3, Bootstrap
 
-## 📸 Screenshot
-![Family Travel Screenshot](screenshot.png)
 
 ## 📂 How to Run
 1. Clone the repository.
