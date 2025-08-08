@@ -23,5 +23,4 @@ A travel website where users can explore destinations, add blog posts, and share
 3. Start MongoDB locally or connect to MongoDB Atlas.
 4. Run `node app.js` or `nodemon app.js`.
 
-## 📜 License
-This project is open source under the MIT License.
+
