@@ -10,7 +10,7 @@ A travel website where users can explore destinations, add blog posts, and share
 ## 🛠️ Technologies Used
 - Node.js
 - Express.js
-- MongoDB & Mongoose
+- PostgreSQL
 - EJS
 - HTML5, CSS3, Bootstrap
 
