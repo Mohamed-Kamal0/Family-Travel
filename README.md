@@ -5,7 +5,7 @@ A travel website where users can explore destinations, add blog posts, and share
 ## 🚀 Features
 - Post and read travel experiences.
 - Responsive design.
-- MongoDB database for storing posts.
+- PostgreSQL database for storing posts.
 
 ## 🛠️ Technologies Used
 - Node.js
